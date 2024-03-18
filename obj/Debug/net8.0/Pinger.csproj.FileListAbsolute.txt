@@ -1,0 +1,14 @@
+D:\Webmastering\C# basics\Pinger\Pinger\bin\Debug\net8.0\Pinger.exe
+D:\Webmastering\C# basics\Pinger\Pinger\bin\Debug\net8.0\Pinger.deps.json
+D:\Webmastering\C# basics\Pinger\Pinger\bin\Debug\net8.0\Pinger.runtimeconfig.json
+D:\Webmastering\C# basics\Pinger\Pinger\bin\Debug\net8.0\Pinger.dll
+D:\Webmastering\C# basics\Pinger\Pinger\bin\Debug\net8.0\Pinger.pdb
+D:\Webmastering\C# basics\Pinger\Pinger\obj\Debug\net8.0\Pinger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webmastering\C# basics\Pinger\Pinger\obj\Debug\net8.0\Pinger.AssemblyInfoInputs.cache
+D:\Webmastering\C# basics\Pinger\Pinger\obj\Debug\net8.0\Pinger.AssemblyInfo.cs
+D:\Webmastering\C# basics\Pinger\Pinger\obj\Debug\net8.0\Pinger.csproj.CoreCompileInputs.cache
+D:\Webmastering\C# basics\Pinger\Pinger\obj\Debug\net8.0\Pinger.dll
+D:\Webmastering\C# basics\Pinger\Pinger\obj\Debug\net8.0\refint\Pinger.dll
+D:\Webmastering\C# basics\Pinger\Pinger\obj\Debug\net8.0\Pinger.pdb
+D:\Webmastering\C# basics\Pinger\Pinger\obj\Debug\net8.0\Pinger.genruntimeconfig.cache
+D:\Webmastering\C# basics\Pinger\Pinger\obj\Debug\net8.0\ref\Pinger.dll
